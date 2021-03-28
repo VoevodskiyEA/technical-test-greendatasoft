@@ -1,0 +1,71 @@
+.new-row{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    &__input{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 25px;
+        position: relative;
+        width: 400px;
+        
+        &__block{
+            border: 1px solid rgb(118, 118, 118);
+            outline-width: 0px;
+            display: flex;
+            flex-direction: row;
+            &:focus-within{
+                border: 1px solid black;
+                outline-width: 1px;
+                border-radius: 2px;
+            }
+            &__field{
+                width: 380px;
+                border: none;
+                outline: none;
+            }
+            &__img{
+                cursor: pointer;
+                width: 20px;
+                height: 20px;
+            }
+        }
+        &__error{
+            color: red;
+            font-size: 10px;
+            position: absolute;
+            bottom: -15px;
+        }
+    } 
+    &__button{
+        color: black;
+        width: 350px;
+        height: 30px;
+        border-radius: 15px;
+        outline-width: 0px;
+        border: 1px solid black;
+        background-color: green;
+        &:hover{
+            background-color:lightgreen;
+            cursor: pointer;
+        }
+        &:active{
+            background-color: darkgreen;
+        }
+    }
+}
+.required:after{
+    content: "*";
+    color: red;
+    //vertical-align: super;
+}
+
+.htmllink{
+    color: green;
+    &:hover{
+        color:lightgreen;
+    }
+    &:active{
+        color:darkgreen;
+    }
+}
