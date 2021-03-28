@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/technical-test-greendatasoft/static/css/main.8dab5ab8.chunk.css",
+    "main.js": "/technical-test-greendatasoft/static/js/main.e1e089a8.chunk.js",
+    "main.js.map": "/technical-test-greendatasoft/static/js/main.e1e089a8.chunk.js.map",
+    "runtime-main.js": "/technical-test-greendatasoft/static/js/runtime-main.89e40f7d.js",
+    "runtime-main.js.map": "/technical-test-greendatasoft/static/js/runtime-main.89e40f7d.js.map",
+    "static/css/2.de2ac02e.chunk.css": "/technical-test-greendatasoft/static/css/2.de2ac02e.chunk.css",
+    "static/js/2.8c28de50.chunk.js": "/technical-test-greendatasoft/static/js/2.8c28de50.chunk.js",
+    "static/js/2.8c28de50.chunk.js.map": "/technical-test-greendatasoft/static/js/2.8c28de50.chunk.js.map",
+    "static/js/3.db03437e.chunk.js": "/technical-test-greendatasoft/static/js/3.db03437e.chunk.js",
+    "static/js/3.db03437e.chunk.js.map": "/technical-test-greendatasoft/static/js/3.db03437e.chunk.js.map",
+    "index.html": "/technical-test-greendatasoft/index.html",
+    "static/css/2.de2ac02e.chunk.css.map": "/technical-test-greendatasoft/static/css/2.de2ac02e.chunk.css.map",
+    "static/css/main.8dab5ab8.chunk.css.map": "/technical-test-greendatasoft/static/css/main.8dab5ab8.chunk.css.map",
+    "static/js/2.8c28de50.chunk.js.LICENSE.txt": "/technical-test-greendatasoft/static/js/2.8c28de50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89e40f7d.js",
+    "static/css/2.de2ac02e.chunk.css",
+    "static/js/2.8c28de50.chunk.js",
+    "static/css/main.8dab5ab8.chunk.css",
+    "static/js/main.e1e089a8.chunk.js"
+  ]
+}
